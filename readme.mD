@@ -1,0 +1,3 @@
+# Terminal
+pip install Flask
+
